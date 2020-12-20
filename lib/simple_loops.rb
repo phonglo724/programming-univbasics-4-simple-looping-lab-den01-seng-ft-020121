@@ -9,6 +9,7 @@ end
 end
 
 def loop_message_n_times(string, integer)
+  count = 0
   
 end
 
