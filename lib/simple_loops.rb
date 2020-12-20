@@ -25,5 +25,6 @@ end
 end
 
 def return_string_array(array)
-  
+  count = 0
+  while array
 end
